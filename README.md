@@ -1,7 +1,5 @@
 # Python Voice and Text Assistant
 
-![Assistant Demo](assistant-demo.gif)
-
 **Author:** Shashank Allada
 
 ---
