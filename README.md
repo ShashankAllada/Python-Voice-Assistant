@@ -1,9 +1,5 @@
 # Python Voice and Text Assistant
 
-**Author:** Shashank Allada
-
----
-
 ## Overview
 
 The Python Voice and Text Assistant is an open-source project designed to offer a user-friendly interface for performing various tasks using voice commands and text-based input. It provides both speech recognition and text-to-speech capabilities, making it a versatile tool for voice-command-based interactions.
@@ -24,15 +20,14 @@ The Python Voice and Text Assistant is an open-source project designed to offer 
 
 - **Open Source:** The project is open source, allowing contributions and customizations.
 
----
 
 ## Technology Involved
 
 **Programming Language:** Python
 
-**Speech Recognition:** [Specify the speech recognition library/tool used]
+[**Speech Recognition**](https://pypi.org/project/SpeechRecognition/)
 
-**Text-to-Speech:** [Specify the text-to-speech library/tool used]
+[**Text-to-Speech**](https://pypi.org/project/pyttsx3/)
 
 ## Possible Outcomes
 
@@ -40,11 +35,9 @@ The Python Voice and Text Assistant is an open-source project designed to offer 
 
 **Versatile Features:** Our assistant is packed with a broad array of features, ranging from voice transcription and hands-free access to YouTube videos to real-time news updates, entertaining jokes, and personalized WhatsApp messages. With this tool, you'll have a versatile companion for both work and play.
 
----
-
 
 ## Contributing
 
-Contributions are welcome! To contribute to the project, please read our [Contribution Guidelines](link-to-contribution-guidelines).
+Contributions are welcome! 
 
 *Created and published by Shashank Allada.*
